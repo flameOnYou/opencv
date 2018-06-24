@@ -1,0 +1,3 @@
+﻿  match.cpp
+d:\mypro\visualstudio\opencv\match\match\match\match.cpp(53): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  match.vcxproj -> D:\mypro\visualstudio\opencv\match\match\x64\Debug\match.exe
