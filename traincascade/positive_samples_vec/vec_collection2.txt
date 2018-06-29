@@ -1,0 +1,6 @@
+positive_sample2_self.vec
+positive_sample2_1.vec
+positive_sample2_2.vec
+positive_sample2_3.vec
+positive_sample2_4.vec
+

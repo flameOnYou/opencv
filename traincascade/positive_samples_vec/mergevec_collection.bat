@@ -1,0 +1,3 @@
+mergevec.exe vec_collection1.txt positive_sample1_collection.vec
+mergevec.exe vec_collection2.txt positive_sample2_collection.vec
+pause
